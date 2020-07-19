@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<ns2:test-suite xmlns="" xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1583348586169" stop="1583348586184">
+  <name>Discribe what this feature will test / put the bussines rule and every thing that is important</name>
+  <title>Discribe what this feature will test / put the bussines rule and every thing that is important</title>
+  <test-cases>
+    <test-case start="1583348586180" stop="1583348586181" status="pending">
+      <name>discribe this specific scenario</name>
+      <title>discribe this specific scenario</title>
+      <failure>
+        <message/>
+        <stack-trace/>
+      </failure>
+      <steps>
+        <step start="1583348586181" stop="1583348586181" status="pending">
+          <name>Given A background is nedded put it</name>
+          <title>Given A background is nedded put it</title>
+          <attachments/>
+        </step>
+        <step start="1583348586181" stop="1583348586181" status="canceled">
+          <name>When this do some thing</name>
+          <title>When this do some thing</title>
+          <attachments/>
+        </step>
+        <step start="1583348586181" stop="1583348586181" status="canceled">
+          <name>And add some "thing"</name>
+          <title>And add some "thing"</title>
+          <attachments/>
+        </step>
+        <step start="1583348586181" stop="1583348586181" status="canceled">
+          <name>Then check some thing</name>
+          <title>Then check some thing</title>
+          <attachments/>
+        </step>
+      </steps>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="47349826618820"/>
+        <label name="host" value="tqi-uol-001983"/>
+        <label name="feature" value="Discribe what this feature will test / put the bussines rule and every thing that is important"/>
+        <label name="story" value="discribe this specific scenario"/>
+      </labels>
+      <parameters/>
+    </test-case>
+    <test-case start="1583348586181" stop="1583348586182" status="canceled">
+      <name>discribe this specific scenario: 1</name>
+      <title>discribe this specific scenario: 1</title>
+      <failure>
+        <message/>
+        <stack-trace/>
+      </failure>
+      <steps>
+        <step start="1583348586182" stop="1583348586182" status="pending">
+          <name>Given A background is nedded put it</name>
+          <title>Given A background is nedded put it</title>
+          <attachments/>
+        </step>
+        <step start="1583348586182" stop="1583348586182" status="canceled">
+          <name>When add some 1</name>
+          <title>When add some 1</title>
+          <attachments/>
+        </step>
+        <step start="1583348586182" stop="1583348586182" status="canceled">
+          <name>Then compare with some thing</name>
+          <title>Then compare with some thing</title>
+          <attachments/>
+        </step>
+      </steps>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="47349826618820"/>
+        <label name="host" value="tqi-uol-001983"/>
+        <label name="feature" value="Discribe what this feature will test / put the bussines rule and every thing that is important"/>
+        <label name="story" value="discribe this specific scenario: 1"/>
+      </labels>
+      <parameters/>
+    </test-case>
+    <test-case start="1583348586183" stop="1583348586183" status="canceled">
+      <name>discribe this specific scenario: 2</name>
+      <title>discribe this specific scenario: 2</title>
+      <failure>
+        <message/>
+        <stack-trace/>
+      </failure>
+      <steps>
+        <step start="1583348586183" stop="1583348586183" status="pending">
+          <name>Given A background is nedded put it</name>
+          <title>Given A background is nedded put it</title>
+          <attachments/>
+        </step>
+        <step start="1583348586183" stop="1583348586183" status="canceled">
+          <name>When add some 2</name>
+          <title>When add some 2</title>
+          <attachments/>
+        </step>
+        <step start="1583348586183" stop="1583348586183" status="canceled">
+          <name>Then compare with some thing</name>
+          <title>Then compare with some thing</title>
+          <attachments/>
+        </step>
+      </steps>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="47349826618820"/>
+        <label name="host" value="tqi-uol-001983"/>
+        <label name="feature" value="Discribe what this feature will test / put the bussines rule and every thing that is important"/>
+        <label name="story" value="discribe this specific scenario: 2"/>
+      </labels>
+      <parameters/>
+    </test-case>
+    <test-case start="1583348586184" stop="1583348586184" status="canceled">
+      <name>discribe this specific scenario: 3</name>
+      <title>discribe this specific scenario: 3</title>
+      <failure>
+        <message/>
+        <stack-trace/>
+      </failure>
+      <steps>
+        <step start="1583348586184" stop="1583348586184" status="pending">
+          <name>Given A background is nedded put it</name>
+          <title>Given A background is nedded put it</title>
+          <attachments/>
+        </step>
+        <step start="1583348586184" stop="1583348586184" status="canceled">
+          <name>When add some 3</name>
+          <title>When add some 3</title>
+          <attachments/>
+        </step>
+        <step start="1583348586184" stop="1583348586184" status="canceled">
+          <name>Then compare with some thing</name>
+          <title>Then compare with some thing</title>
+          <attachments/>
+        </step>
+      </steps>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="47349826618820"/>
+        <label name="host" value="tqi-uol-001983"/>
+        <label name="feature" value="Discribe what this feature will test / put the bussines rule and every thing that is important"/>
+        <label name="story" value="discribe this specific scenario: 3"/>
+      </labels>
+      <parameters/>
+    </test-case>
+  </test-cases>
+  <labels>
+    <label name="severity" value="normal"/>
+    <label name="thread" value="47349826618820"/>
+    <label name="host" value="tqi-uol-001983"/>
+  </labels>
+</ns2:test-suite>

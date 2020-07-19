@@ -1,0 +1,7 @@
+version: '3'
+services:
+    test:
+        build: .
+        command: cucumber -p dev
+        volumes: 
+            - .:/YourProjectPath
