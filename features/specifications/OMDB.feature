@@ -1,6 +1,5 @@
 #language: pt
 #utf-8
-
 @OMDB
 Funcionalidade: Listar a busca dos titulos no OMDB
 
@@ -12,7 +11,6 @@ Funcionalidade: Listar a busca dos titulos no OMDB
     E os titulos referente a busca devem ser retornados com sucesso
 
     Exemplos:
-
       |    s    |     type     |    y   |     r    |    page   |          callback        |    v    |   code    |
       |  "300"  |     ""       |   ""   |    ""    |     ""    |             ""           |    ""   |    200    |
       |  "300"  |   "movie"    |   ""   |    ""    |     ""    |             ""           |    ""   |    200    |
@@ -45,7 +43,6 @@ Funcionalidade: Listar a busca dos titulos no OMDB
       |  "300"  |   "movie"    | "2006" |   "xml"  |    "3"    |     "Teste Charles"      |   "4"   |    200    |
       |  "300"  |   "series"   | "2000" |   "xml"  |    "9"    |     "Teste Charles"      |   "2"   |    200    |
       |  "300"  |   "episode"  | "2012" |   "xml"  |    "1"    |     "Teste Charles"      |   "1"   |    200    |
-
 
   @OMDB_apikey_invalid
   Cenario: Realizar a busca de titulos
