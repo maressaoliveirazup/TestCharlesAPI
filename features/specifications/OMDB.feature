@@ -11,6 +11,7 @@ Funcionalidade: Listar a busca dos titulos no OMDB
     E os titulos referente a busca devem ser retornados com sucesso
 
     Exemplos:
+
       |    s    |     type     |    y   |     r    |    page   |          callback        |    v    |   code    |
       |  "300"  |     ""       |   ""   |    ""    |     ""    |             ""           |    ""   |    200    |
       |  "300"  |   "movie"    |   ""   |    ""    |     ""    |             ""           |    ""   |    200    |
