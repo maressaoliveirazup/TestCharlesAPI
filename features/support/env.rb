@@ -6,8 +6,6 @@ require 'rspec'
 require 'allure-cucumber'
 require 'cucumber'
 require 'pry'
-require 'test-unit'
-require 'aspector'
 
 ENVIRONMENT = ENV['ENVIRONMENT']
 
