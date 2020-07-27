@@ -45,7 +45,7 @@ bundle install
 cucumber -p -test -t @suatag
 ```
 
-![@tag](https://github.com/maressaoliveirazup/TestCharlesAPI/blob/master/tags.png)
+![@tag](https://github.com/maressaoliveirazup/TestCharlesAPI/blob/master/img/tags.png)
 
 ## Relatórios
 
@@ -72,11 +72,11 @@ Conseguimos gerar dois tipos de relatório para esse projeto.
 
      * para a tag _'@OMDB_apikey_valid'_
 
-     ![@OMDB_apikey_valid](https://github.com/maressaoliveirazup/TestCharlesAPI/blob/master/allure_report_OMDB_apikey_valid.png)
+     ![@OMDB_apikey_valid](https://github.com/maressaoliveirazup/TestCharlesAPI/blob/master/img/allure_report_OMDB_apikey_valid.png)
 
     * para a tag _'@OMDB_apikey_invalid'_
 
-     ![@OMDB_apikey_invalid](https://github.com/maressaoliveirazup/TestCharlesAPI/blob/master/allure_report_OMDB_apikey_invalid.png)
+     ![@OMDB_apikey_invalid](https://github.com/maressaoliveirazup/TestCharlesAPI/blob/master/img/allure_report_OMDB_apikey_invalid.png)
 
 * O segundo relatório se trata de uma ferramente utilizada para avaliar a qualidade do código Ruby. Para visualizar basta:
       
@@ -87,7 +87,7 @@ Conseguimos gerar dois tipos de relatório para esse projeto.
       
      * O relatório que será exibido, se parecerá com esse: 
 
-     ![](https://github.com/maressaoliveirazup/TestCharlesAPI/blob/master/analise_codigo.png)
+     ![rubycritic](https://github.com/maressaoliveirazup/TestCharlesAPI/blob/master/img/analise_codigo.png)
 
 
 ## ------------ Dúvidas ------------ 
