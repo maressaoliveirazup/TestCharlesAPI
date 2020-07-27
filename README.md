@@ -17,9 +17,6 @@ Para executar os testes, é necessário, ter previamente instalado:
 * [Ruby](https://www.ruby-lang.org/pt/downloads/)
 * [NodeJs](https://nodejs.org/pt-br/download/)
 
-Ter baixado o driver Firefox, para o qual o teste foi construido. Para baixar, clique [aqui](https://github.com/mozilla/geckodriver/releases).
-> O mesmo deve ser salvo no diretório /bin do path de instalação do Ruby.
-
 ## Baixando o projeto
 
 Para baixar todo o projeto e suas dependências, basta fazer o git clone, no diretório desejado de sua máquina. 
