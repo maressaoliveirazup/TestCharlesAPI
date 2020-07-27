@@ -46,6 +46,12 @@ Funcionalidade: Listar a busca dos titulos no OMDB
       |  "300"  |   "episode"  | "2012" |   "xml"  |    "1"    |     "Teste Charles"      |   "1"   |    200    |
 
   @OMDB_apikey_invalid
-  Cenario: Realizar a busca de titulos
+  Cenario: Realizar a busca de titulos com apikey invalido
     Quando eu realizar a busca de um titulo com um apikey invalido
     Entao a minha requisicao deve falhar e retornar 401
+    E deve retornar a mensagem "Invalid API key!"
+
+  @OMDB_all_empty
+  Cenario: Realizar a busca de titulos com parametros vazios e somente apikey preenchido
+    Quando eu realizar a busca de um titulo somente com o apikey preenchido
+    Entao a minha requisicao deve retornar a mensagem "Something went wrong."

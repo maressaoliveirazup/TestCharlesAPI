@@ -5,7 +5,6 @@ require 'httparty/response/headers'
 require 'rspec'
 require 'allure-cucumber'
 require 'cucumber'
-require 'pry'
 
 ENVIRONMENT = ENV['ENVIRONMENT']
 

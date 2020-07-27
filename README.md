@@ -1,6 +1,6 @@
 # Teste Charles - Testes realizados na API OMDB
 
-Esse projeto implementa todos os fluxos de testes automatizados para o projeto Happy Flex
+Esse projeto implementa testes de api para a aplicação OMDB
 
 > Utilizando a stack: 
 ```sh
@@ -11,6 +11,14 @@ Ruby + Cucumber + HTTParty
 [![Ruby Version][ruby-image]][ruby-url]
 [![Cucumber Version][cucumber-image]][cucumber-url]
 [![HTTParty Version][httparty-image]][httparty-url]
+
+Para executar os testes, é necessário, ter previamente instalado:
+
+* [Ruby](https://www.ruby-lang.org/pt/downloads/)
+* [NodeJs](https://nodejs.org/pt-br/download/)
+
+Ter baixado o driver Firefox, para o qual o teste foi construido. Para baixar, clique [aqui](https://github.com/mozilla/geckodriver/releases).
+> O mesmo deve ser salvo no diretório /bin do path de instalação do Ruby.
 
 ## Baixando o projeto
 
